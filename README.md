@@ -14,7 +14,7 @@ This is a **Restaurant Management System** developed in **C# using Windows Forms
 ## Technologies Used
 - **Programming Language**: C#
 - **Framework**: .NET Framework (Windows Forms)
-- **Database**: (Specify if any database is used)
+- **Database**: work with file technology (File Handling)
 
 ## Project Structure
 ```
